@@ -1,0 +1,12 @@
+100, AAA, "Random product AAA.", "28", SHOE_EU
+101, AAA, "Random product AAA.", "22", INVALID
+102, AAA, "Random product AAA.", "38", SHOE_EU
+103, AAA, "Random product AAA.", "36", SHOE_EU
+104, AAA, "Random product AAA.", "32", INVALID
+105, AAA, "Random product AAA.", "25", SHOE_EU
+106, AAB, "Random product AAB.", "20", SHOE_EU
+107, AAB, "Random product AAB.", "40", INVALID
+108, AAB, "Random product AAB.", "36", SHOE_EU
+109, AAB, "Random product AAB.", "32", SHOE_EU
+110, AAB, "Random product AAB.", "25", INVALID
+111, AAB, "Random product AAB.", "35", SHOE_EU
