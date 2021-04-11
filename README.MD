@@ -1,1 +1,1 @@
-JD Test
+JD Sports Proficiency Test
